@@ -1,4 +1,1 @@
-Hi, I’m @TorCasDev 
-Mastered Skills:
-HTML, CSS, JS, TS, React, React Native, NextJS, SQL
-
+Nothing much to say for now 
